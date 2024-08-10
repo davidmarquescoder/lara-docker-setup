@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-FROM php:8.3-fpm
-=======
 FROM php:8.1-fpm
->>>>>>> upstream/laravel-10-com-php-8.1
 
 # set your user name, ex: user=carlos
 ARG user=yourusername
