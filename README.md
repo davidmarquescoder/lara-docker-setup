@@ -1,7 +1,7 @@
 # Setup Docker Laravel 10 com PHP 8.1
 
-### Passo a passo
-Clone Repositório
+### Instruções
+Clone o repositório
 ```sh
 git clone -b laravel-10-php-8.1 git@github.com:davidmarquescoder/lara-docker-setup.git <app-name>
 ```
