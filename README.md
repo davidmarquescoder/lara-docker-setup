@@ -62,5 +62,18 @@ php artisan key:generate
 ```
 
 
+Caso seja da sua vontade criar seu próprio repositório git a partir desse setup, rode o comando:
+
+Deletando configuração do repositório git clonado
+```sh
+rm -rf .git
+```
+
+Inicializando novo repositório local
+```sh
+git init
+```
+
+
 Acesse o projeto
 [http://localhost:8989](http://localhost:8989)
