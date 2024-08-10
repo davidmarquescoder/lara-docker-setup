@@ -43,6 +43,7 @@ services:
         networks:
             - laravel
 
+<<<<<<< HEAD
     # PHPMyAdmin
     phpmyadmin:
         image: phpmyadmin/phpmyadmin
@@ -56,6 +57,8 @@ services:
         networks:
             - laravel
 
+=======
+>>>>>>> upstream/laravel-10-com-php-8.1
     # redis
     redis:
         image: redis:latest
